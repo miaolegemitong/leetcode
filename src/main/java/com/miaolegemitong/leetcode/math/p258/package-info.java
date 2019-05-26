@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/5/2
  * @description Add Digits
 Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.

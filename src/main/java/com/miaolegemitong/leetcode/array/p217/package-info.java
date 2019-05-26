@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/3/3
  * @description Contains Duplicate
 Given an array of integers, find if the array contains any duplicates.

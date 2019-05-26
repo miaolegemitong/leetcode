@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/25
  * @description Same Tree
 Given two binary trees, write a function to check if they are equal or not.

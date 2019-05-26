@@ -2,7 +2,7 @@ package com.miaolegemitong.leetcode.hashtable.p136;
 
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/27
  * @description
  */

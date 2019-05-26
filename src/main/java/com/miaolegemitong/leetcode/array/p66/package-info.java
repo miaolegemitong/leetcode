@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/25
  * @description Plus One
 Given a non-negative integer represented as a non-empty array of digits, plus one to the integer.

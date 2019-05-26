@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/5/2
  * @description Ugly Number
 Write a program to check whether a given number is an ugly number.

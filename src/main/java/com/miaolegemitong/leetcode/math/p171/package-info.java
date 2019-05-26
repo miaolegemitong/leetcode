@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/28
  * @description Excel Sheet Column Number
 Related to question Excel Sheet Column Title

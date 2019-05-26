@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/26
  * @description Balanced Binary Tree
 Given a binary tree, determine if it is height-balanced.

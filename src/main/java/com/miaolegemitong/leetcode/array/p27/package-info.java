@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/25
  * @description Remove Element
 Given an array and a value, remove all instances of that value in place and return the new length.

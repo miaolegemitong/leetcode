@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/27
  * @description Minimum Depth of Binary Tree
 Given a binary tree, find its minimum depth.

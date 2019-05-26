@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/28
  * @description Factorial Trailing Zeroes
 Given an integer n, return the number of trailing zeroes in n!.

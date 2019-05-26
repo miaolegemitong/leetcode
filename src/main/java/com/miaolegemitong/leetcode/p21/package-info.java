@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/24
  * @description Merge Two Sorted Lists
  * Merge two sorted linked lists and return it as a new list.

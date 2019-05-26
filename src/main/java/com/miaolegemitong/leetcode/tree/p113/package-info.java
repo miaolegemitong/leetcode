@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/27
  * @description Path Sum II
 Given a binary tree and a sum, find all root-to-leaf paths where each path's sum equals the given sum.

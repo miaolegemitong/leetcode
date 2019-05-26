@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/28
  * @description Two Sum II - Input array is sorted
 Given an array of integers that is already sorted in ascending order, find two numbers such that they add up to a specific target number.

@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/25
  * @description Remove Duplicates from Sorted List
 Given a sorted linked list, delete all duplicates such that each element appear only once.

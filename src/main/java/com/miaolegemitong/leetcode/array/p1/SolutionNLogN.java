@@ -3,7 +3,7 @@ package com.miaolegemitong.leetcode.array.p1;
 
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/24
  * @description 对已排序的数组可用这种方法
  */

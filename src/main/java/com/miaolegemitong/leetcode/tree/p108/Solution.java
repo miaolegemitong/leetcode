@@ -4,7 +4,7 @@ import com.miaolegemitong.leetcode.common.TreeNode;
 
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/26
  * @description
  */

@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/27
  * @description Pascal's Triangle II
 Given an index k, return the kth row of the Pascal's triangle.

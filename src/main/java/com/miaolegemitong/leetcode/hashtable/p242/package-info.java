@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/5/1
  * @description Valid Anagram
 Given two strings s and t, write a function to determine if t is an anagram of s.

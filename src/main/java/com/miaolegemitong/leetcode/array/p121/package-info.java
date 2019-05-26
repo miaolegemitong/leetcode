@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/27
  * @description Best Time to Buy and Sell Stock
 Say you have an array for which the ith element is the price of a given stock on day i.

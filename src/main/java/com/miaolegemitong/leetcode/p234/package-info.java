@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/4/30
  * @description Palindrome Linked List
 Given a singly linked list, determine if it is a palindrome.

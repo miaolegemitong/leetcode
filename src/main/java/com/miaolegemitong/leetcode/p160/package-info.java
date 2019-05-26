@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/28
  * @description Intersection of Two Linked Lists
 Write a program to find the node at which the intersection of two singly linked lists begins.

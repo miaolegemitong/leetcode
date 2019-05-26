@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/3/2
  * @description Minimum Absolute Difference in BST
 Given a binary search tree with non-negative values, find the minimum absolute difference between values of any two nodes.

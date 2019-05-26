@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/4/30
  * @description Delete Node in a Linked List
 Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.

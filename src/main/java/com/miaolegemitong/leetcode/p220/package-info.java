@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/3/6
  * @description Contains Duplicate III
 Given an array of integers, find out whether there are two distinct indices i and j

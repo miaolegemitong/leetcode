@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/3/1
  * @description Rotate Array
 Rotate an array of n elements to the right by k steps.

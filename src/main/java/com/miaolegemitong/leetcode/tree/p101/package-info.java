@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/26
  * @description Symmetric Tree
 Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).

@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/24
  * @question Two Sum
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.

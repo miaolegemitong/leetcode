@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/25
  * @description Maximum Subarray
 Find the contiguous subarray within an array (containing at least one number) which has the largest sum.

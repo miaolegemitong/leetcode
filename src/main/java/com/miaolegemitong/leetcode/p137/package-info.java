@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/28
  * @description Single Number II
 Given an array of integers, every element appears three times except for one, which appears exactly once. Find that single one.

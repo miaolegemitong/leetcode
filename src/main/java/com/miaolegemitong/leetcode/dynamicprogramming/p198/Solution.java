@@ -2,7 +2,7 @@ package com.miaolegemitong.leetcode.dynamicprogramming.p198;
 
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/3/2
  * @description
  */

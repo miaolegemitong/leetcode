@@ -4,7 +4,7 @@ import com.miaolegemitong.leetcode.common.ListNode;
 
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/4/30
  * @description It is a common misunderstanding that the space complexity
  * of a program is just how much the size of additional memory space being

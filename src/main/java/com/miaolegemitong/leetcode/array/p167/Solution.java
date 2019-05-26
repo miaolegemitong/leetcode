@@ -2,7 +2,7 @@ package com.miaolegemitong.leetcode.array.p167;
 
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/2/28
  * @description
  */

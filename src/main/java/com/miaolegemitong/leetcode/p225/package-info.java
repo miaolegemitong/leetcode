@@ -1,6 +1,6 @@
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/4/29
  * @description Implement Stack using Queues
 Implement the following operations of a stack using queues.

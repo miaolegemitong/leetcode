@@ -4,7 +4,7 @@ import com.miaolegemitong.leetcode.common.ListNode;
 
 /**
  * @author mitong
- * @email mitong@staff.sina.com.cn
+ * @email mitong@miaolegemitong.com
  * @date 2017/4/30
  * @description O(n) time and O(n) space
  */
